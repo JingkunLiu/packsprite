@@ -10,11 +10,5 @@ The source code of this project is released on public domain. It's totally free.
 1. Put all the png images of your sprites into one directory.
 2. Run maxrects.py and pack all these images into several bigger textures with directory name as filenames.
 
-###Example###
-python maxrects.py 
-Start packing images: 
-Writing packsprite_0.plist ...
-Writing packsprite_0.png ...
-Writing packsprite_1.plist ...
-Writing packsprite_1.png ...
-Done.
+###More###
+Read the blog on my github pages for more information.
